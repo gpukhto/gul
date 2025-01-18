@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'B Jadid';
+    src: url('BJadidBold.woff2') format('woff2'),
+        url('BJadidBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
